@@ -1,4 +1,4 @@
 {
   "changelog":"Beta Test V1.0",
-  "log":"ele,//*[@value='Verify'],error,2Fa ?|url,proofs/Verify?,error,2Fa ?|url,/Abuse?,error,2Fa ? |url,/recover?,error,2Fa ?|urll,/Abuse?,error,2Fa ?|urll,/recover?,error,2Fa ?|urll,proofs/Verify?,error,2Fa ?|ele_click,//*[@id='piplConsentContinue'],,|source,We are currently experiencing high demand. Please wait and try again later.,retry,We are currently experiencing high demand. Please wait and try again later."
+  "log":"ele,//*[@value='Verify'],error,2Fa ?|url,proofs/Verify?,error,2Fa ?|url,/Abuse?,error,2Fa ? |url,/recover?,error,2Fa ?|urll,/Abuse?,error,2Fa ?|urll,/recover?,error,2Fa ?|urll,proofs/Verify?,error,2Fa ?|ele_click,//*[@id='LandingViewAction'],,|ele_click,//*[@id='piplConsentContinue'],,|source,We are currently experiencing high demand. Please wait and try again later.,retry,We are currently experiencing high demand. Please wait and try again later."
 }

@@ -1,3 +1,4 @@
 New channel : @hn_techh
 Sale 1m/month HNHotmailChecker. Update Case 1,5m
-New Update HnHotmailChecker V1.8.1, Case Vip Là Case 1,5m. Ib Admin Thêm Vip Key
+New Update HnHotmailChecker V1.8.3, Case Vip Là Case 1,5m. Ib Admin Thêm Vip Key
+Update HNHotmailChecker V1.8.3 : Làm Lại Stop,Start Không Khựng. Sửa Clear All Rule

@@ -1,1 +1,0 @@
-Yahoo|imap.mail.yahoo.com|993

@@ -1,6 +1,2 @@
 New channel : @hn_techh
-Sale 1m/month HNHotmailChecker. Update Case 1,5m
-New Update HnHotmailChecker V1.8.3, Case Vip Là Case 1,5m. Ib Admin Thêm Vip Key
-Bỏ Tick Requests Skip Trước Khi Chạy Nh
-Update 1.8.9, Mở Tool Nhanh Hơn, Ko Bị Delay..
-Update 1.9. View Payment FB
+Requests Skip Đã Chuẩn R ae nh

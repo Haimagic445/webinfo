@@ -1,2 +1,3 @@
 New channel : @hn_techh
-mn sài tắt retry Ban nh
+mn sài nên tắt retry Ban nh
+turn off retry BAN

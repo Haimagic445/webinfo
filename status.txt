@@ -1,3 +1,4 @@
 New channel : @hn_techh
 mn sài nên tắt retry Ban nh
 turn off retry BAN
+reinstall V1.9.2 https://gofile.io/d/jePT0Z

@@ -1,3 +1,4 @@
 Vì 1 số lý do, HN sẽ share free từ ngày 1/12/2024/, ae van co the gia han key den ngay 1/12/2024/
 Thank for using my inboxer <3
-Update 2.0.3 : Fix open and close
+Update 2.0.3 is error version
+Update 2.0.4 add save tag Access, Log Tut/ them luu rieng access va log tut

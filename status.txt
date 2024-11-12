@@ -1,4 +1,2 @@
-Thank for using my inboxer <3
-Update 2.0.3 is error version
 Update 2.0.4 add save tag Access, Log Tut/ them luu rieng access va log tut
 Update 2.0.5 fix "'Can't Check Abuse'", Block Login.

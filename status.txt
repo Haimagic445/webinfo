@@ -1,5 +1,2 @@
-Update 2.0.4 add save tag Access, Log Tut/ them luu rieng access va log tut
-Update 2.0.5 fix "'Can't Check Abuse'", Block Login.
-Update 2.0.6 add can add than 1 rule mail, add rule sent by mail, fix full queue 
-Update 2.0.6 thêm đc nhiều rule mail, fix full queue 
+Rule Mail Không Hoạt Động Có Thể là do hết dung lượng lưu trữ mail
 Update 2.0.8 thêm ẩn edge, nhanh hơn / add hidden edge, faster.

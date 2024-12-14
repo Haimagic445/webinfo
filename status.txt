@@ -1,2 +1,3 @@
 Rule Mail Không Hoạt Động Có Thể là do hết dung lượng lưu trữ mail
 Update 2.0.8 thêm ẩn edge, nhanh hơn / add hidden edge, faster.
+Update 2.0.9 add rule mark all messages to junk/read, fix some error, add file all.txt, all_found.txt

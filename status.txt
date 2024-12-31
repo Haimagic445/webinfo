@@ -1,3 +1,7 @@
 Rule Mail Không Hoạt Động Có Thể là do hết dung lượng lưu trữ mail
 Update 2.0.8 thêm ẩn edge, nhanh hơn / add hidden edge, faster.
 Update 2.0.9 add rule mark all messages to junk/read, fix some error, add file all.txt, all_found.txt
+May your coming year be filled with new professional and personal successes. I wish you a prosperous 2025 full of achievements and satisfaction.
+Wishing you and your family health, happiness, and prosperity in the new year.
+HN Chúc Mọi Người Một Năm Mới An Lành, Hạnh Phúc, Đạt Được Nhiều Thành Công Hơn Nữa Trong Sự Nghiệp Của Bản Thân.
+Chúc mừng năm mới 2025! Chúc mọi điều bình an, tốt đẹp tới bạn và gia đình!

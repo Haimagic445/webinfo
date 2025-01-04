@@ -1,6 +1,1 @@
-Rule Mail Không Hoạt Động Có Thể là do hết dung lượng lưu trữ mail
-May your coming year be filled with new professional and personal successes. I wish you a prosperous 2025 full of achievements and satisfaction.
-Wishing you and your family health, happiness, and prosperity in the new year.
-HN Chúc Mọi Người Một Năm Mới An Lành, Hạnh Phúc, Đạt Được Nhiều Thành Công Hơn Nữa Trong Sự Nghiệp Của Bản Thân.
-Chúc mừng năm mới 2025! Chúc mọi điều bình an, tốt đẹp tới bạn và gia đình!
-HN Wishes Everyone A Peaceful, Happy New Year, Achieving More Success In Your Career.
+Update 2.10 : More Beautiful, Fix Some Error, Add View Inbox Without Open Edge

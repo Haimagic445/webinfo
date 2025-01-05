@@ -1,1 +1,1 @@
-Update 2.10 : More Beautiful, Fix Some Error, Add View Inbox Without Open Edge
+Update 2.10 : More Beautiful, Fix Some Error, Add View Inbox Without Open Edge, Add Total Retry, Event When Close 

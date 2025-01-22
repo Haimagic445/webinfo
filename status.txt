@@ -1,2 +1,1 @@
-Lỗi Check Country(lỗi 1 số mail tại bên microsoft lỗi), các b tắt check country tạm nha
-Error Check Country(error some at side microsoft error), Turn off country checking when new updates are available
+Good !

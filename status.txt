@@ -1,1 +1,5 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
+Update 2.13 : Adding AutoInstall_msedgedriver.exe, Save Profile Edge In Folder Software (./Resource/EdgeProfile)
+Cập nhật 2.13: Thêm AutoInstall_msedgedriver.exe, Lưu Profile Edge Trong Thư mục Phần mềm (./Resource/EdgeProfile)
+Running AutoInstall_msedgedriver.exe regularly before opening the tool
+Mở AutoInstall_msedgedriver.exe Để Tự Động Cài Đặt File msedgedriver

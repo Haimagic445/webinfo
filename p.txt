@@ -1,0 +1,1 @@
+self.s.request = lambda *args, **kwargs: requests.Session.request(self.s, *args, **dict({'timeout': 5}, **kwargs))

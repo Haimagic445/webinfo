@@ -1,4 +1,2 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-2.13 Lỗi Mở Trình Duyệt, Mn Tải Lại Ở Nha, Hiện Nút Tải Ở Thanh Dưới, Xin Lỗi Mọi Người
-2.13 Error opening browser, please download again, download button appears in bottom bar, sorry everyone
-2.14 Fixed : uploadnow.io/f/tTWhbt3 in 4:25 PM
+2.14 Fixed Stop Checking : uploadnow.io/f/tTWhbt3 in 4:25 PM

@@ -1,3 +1,3 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-turn off cancel requests in setting
-mn tắt cancel requests để nó chạy requests access nha
+Update 2.15 : fix open mail with edge select, can run without keyword
+Update 2.15 : sửa mở treo mail

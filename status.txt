@@ -1,3 +1,1 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-Have Problem Of Open Edge ?. Run AutoInstall_msedgedriver.exe as Admin.
-MN Chạy File AutoInstall_msedgedriver(Run First Time).exe Dưới Quyền Admin Nếu Có Lỗi 'Create Edge Error', bit.ly/HN215rm

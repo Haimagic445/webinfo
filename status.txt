@@ -1,3 +1,3 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-Update 2.15 : fix open mail with edge select, can run without keyword
-Update 2.15 : sửa mở treo mail
+Have Problem Of Open Edge ?. Run AutoInstall_msedgedriver.exe as Admin.
+MN Chạy File AutoInstall_msedgedriver(Run First Time).exe Dưới Quyền Admin Nếu Có Lỗi 'Create Edge Error', bit.ly/HN215rm

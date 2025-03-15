@@ -1,1 +1,3 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
+hiện tại hotmail đang khá lag ở đoạn check country, ko load dc, mn tắt check country tạm nhe
+disabled check country, name

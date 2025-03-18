@@ -1,6 +1,6 @@
 {
 "images":[
-  "https://github.com/Haimagic445/webinfo/raw/refs/heads/main/Screenshot%202025-03-18%20154552.raw",
+  "https://github.com/Haimagic445/webinfo/raw/refs/heads/main/1.c",
 
 ]
 }

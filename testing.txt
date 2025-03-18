@@ -1,1 +1,56 @@
-https://raw.githubusercontent.com/Haimagic445/webinfo/refs/heads/main/1.c
+
+I. Khai niem, danh phap
+1. Khai niem va cong thuc chung cua alkane
+Alkane la cac hydrocarbon no mach ho chi chua lien ket don (lien ket 𝜎) C – H va C – C trong phan tu.
+Cong thuc chung cua alkane: CnH2n + 2 (n la so nguyen, n ≥ 1).
+Vi du: CH4, C2H6, C3H8 …
+2. Danh phap
+a) Alkane khong phan nhanh
+Phan nen (chi so luong nguyen tu carbon) + ane
+b) Alkane mach nhanh
+- Goc alkyl: Phan con lai sau khi lay di mot nguyen tu hydrogen tu phan tu alkane (cong thuc chung cua goc alkyl la CnH2n + 1 −).
+Ten goc alkyl: Phan nen (chi so luong nguyen tu carbon) + yl
+Vi du: CH3−: methyl.
+- Alkane mach nhanh gom alkane mach chinh ket hop voi mot hay nhieu nhanh.
+Ten theo danh phap thay the cua alkane mach phan nhanh:
+So chi vi tri mach nhanh + ten nhanh + ten alkane mach chinh
+Luu y:
+- Chon mach dai nhat, co nhieu nhanh nhat lam mach chinh.
+- Danh so nguyen tu carbon mach chinh sao cho mach nhanh co so chi vi tri nho nhat.
+- Dung chu so (1, 2, 3, …) va gach noi (−) de chi vi tri nhanh, nhom cuoi cung viet lien voi ten mach chinh.
+- Neu co nhieu nhanh giong nhau: dung cac tu nhu ­di- (2), tri- (3), tetra- (4) … de chi so luong nhom giong nhau; ten nhanh viet theo thu tu bang chu cai.
+II. Dac diem cau tao
+Trong phan tu alkane chi chua cac lien ket don C – C va C – H, cac lien ket nay la lien ket σ ben vung va kem phan cuc. Do vay, phan tu alkane hau nhu khong phan cuc va o dieu kien thuong chung tuong doi tro ve mat hoa hoc.
+Trong phan tu methane, bon lien ket C – H giong nhau tao voi nhau mot goc 109,5o va huong ve 4 dinh cua mot hinh tu dien deu.
+III. Tinh chat vat li
+O dieu kien thuong, alkane tu C1 den C4 va neopentane o trang thai khi, alkane tu C5 den C17 (tru neopentane) o trang thai long, khong mau, alkane tu C18 tro len la chat ran mau trang (con goi la sap paraffin).
+Cac alkane mach nhanh thuong co nhiet do soi thap hon so voi dong phan alkane mach khong phan nhanh. Alkane khong tan hoac tan rat it trong nuoc va nhe hon nuoc, tan tot hon trong cac dung moi huu co.
+IV. Tinh chat hoa hoc
+1. Phan ung the
+Khi dat binh chua hon hop cua alkane voi halogen (thuong la chlorine hoac bromine) trong phong toi va o nhiet do phong, phan ung khong xay ra. Nhung neu dun nong hoac chieu anh sang se xay ra phan ung the nguyen tu hydrogen trong alkane bang nguyen tu halogen:
+Phan ung tren duoc goi la phan ung halogen hoa alkane. San pham cua phan ung halogen hoa la cac dan xuat halogen.
+Vi du:
+Chlorine co the thay the lan luot tung nguyen tu H trong phan tu methane.
+
+Phuong trinh hoa hoc:
+
+CH4 + Cl2 
+as
+→
+ CH3Cl + HCl
+
+CH3Cl + Cl2 
+as
+→
+ CH2Cl2 + HCl
+
+CH2Cl2 + Cl2 
+as
+→
+ CHCl3 + HCl
+
+CHCl3 + Cl2 as→CCl4 + HCl
+Chu y: Khi thuc hien phan ung the halogen vao cac alkane co tu 3 nguyen tu carbon tro len se thu duoc hon hop cac san pham the monohalogen.
+2. Phan ung cracking
+Cracking alkane la qua trinh phan cat lien ket C–C (be gay mach carbon) cua cac alkane mach dai de tao thanh hon hop cac hydrocarbon co mach carbon ngan hon.
+Phan ung cracking duoc ung dung trong cong nghiep loc dau. Phan ung cracking duoc thuc hien trong dieu kien nhiet do cao va thuong co xuc tac.

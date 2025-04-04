@@ -1200,20 +1200,6 @@
             const diff = milestoneDate - startDate;
             return Math.floor(diff / (1000 * 60 * 60 * 24)) + 1;
         }
-         const audioPlayer = document.getElementById('love-song');
-        const playBtn = document.getElementById('play-btn');
-        const progressBar = document.getElementById('progress-bar');
-        const timeDisplay = document.getElementById('time-display');
-
-         playBtn.addEventListener('click', function() {
-            if (audioPlayer.paused) {
-                audioPlayer.play();
-                playBtn.textContent = '❚❚';
-            } else {
-                audioPlayer.pause();
-                playBtn.textContent = '▶';
-            }
-        });
 
         // Hàm định dạng ngày tháng
         function formatDate(date) {
@@ -1223,6 +1209,111 @@
             return `${day}/${month}/${year}`;
         }
         // Hiệu ứng trái tim bay
+        // Hiệu ứng xuất hiện khi scroll đến milestone
+         function createSnowflakes() {
+            const container = document.getElementById('snowflakes-container');
+            const snowflakesCount = 0;
+            
+            const snowflakeSymbols = [
+  '❄', '❅', '❆', '✻', '✼',
+  '❤', '🧡', '🤍','💗','💗',
+  '💕', '❣', '💖', '💗', '💘', '💝', // Biểu tượng trái tim bổ sung
+  '😻', '🐰', '🌸', '🎀', '✨', // Biểu tượng dễ thương
+  '♡', '♥', '❥', '❦', '❧', // Biểu tượng trái tim từ ký tự đặc biệt
+  '૮ ˶ᵔ ᵕ ᵔ˶ ა', '(｡♥‿♥｡)', 'ʕ•́ᴥ•̀ʔっ♡','❤', '🧡',
+                '💖', '💗', '💘', '💝', '💞', '❣', '💕', '💓',
+                '🌸', '🌼',
+                '✨', '🌟', '💫', '⭐', '🎀'
+];
+
+            for (let i = 0; i < snowflakesCount; i++) {
+                setTimeout(() => {
+                    const snowflake = document.createElement('div');
+                    snowflake.className = 'snowflake';
+                    snowflake.innerHTML = snowflakeSymbols[Math.floor(Math.random() * snowflakeSymbols.length)];
+                    
+                    // Random kích thước
+                    const size = Math.random() * 15 + 10;
+                    snowflake.style.fontSize = `${size}px`;
+                    
+                    // Random vị trí bắt đầu
+                    const startPosX = Math.random() * window.innerWidth;
+                    snowflake.style.left = `${startPosX}px`;
+                    snowflake.style.top = '-20px';
+                    
+                    // Random độ lệch ngang khi rơi
+                    const endX = (Math.random() - 0.5) * 100;
+                    snowflake.style.setProperty('--end-x', `${endX}px`);
+                    
+                    // Random tốc độ rơi
+                    const duration = Math.random() * 10 + 5;
+                    snowflake.style.animationDuration = `${duration}s`;
+                    
+                    // Random độ trễ
+                    const delay = Math.random() * 5;
+                    snowflake.style.animationDelay = `${delay}s`;
+                    
+                    // Random độ lắc
+                    const sway = Math.random() * 30 + 10;
+                    snowflake.style.animationTimingFunction = `cubic-bezier(0.5, ${Math.random()}, 0.5, ${Math.random()})`;
+                    
+                    container.appendChild(snowflake);
+                    
+                    // Xóa snowflake sau khi rơi xong để tránh DOM quá nặng
+                    setTimeout(() => {
+                        snowflake.remove();
+                    }, duration * 2000);
+                }, i * 300);
+            }
+            
+            // Lặp lại hiệu ứng tuyết
+            setTimeout(createSnowflakes, snowflakesCount * 300);
+        }
+
+        // Hiệu ứng trái tim bay
+        function createFloatingHearts() {
+            const container = document.getElementById('floating-hearts');
+            const heartCount = 10;
+            
+            const heartSymbols = ['❤', '🧡', '💛', '💚', '💙', '💜', '🤎', '🖤', '🤍'];
+            
+            for (let i = 0; i < heartCount; i++) {
+                setTimeout(() => {
+                    const heart = document.createElement('div');
+                    heart.className = 'floating-heart';
+                    heart.innerHTML = heartSymbols[Math.floor(Math.random() * heartSymbols.length)];
+                    
+                    // Random kích thước
+                    const size = Math.random() * 20 + 10;
+                    heart.style.fontSize = `${size}px`;
+                    
+                    // Random vị trí bắt đầu
+                    const startPosX = Math.random() * window.innerWidth;
+                    heart.style.left = `${startPosX}px`;
+                    heart.style.bottom = '-20px';
+                    
+                    // Random độ lệch ngang khi bay
+                    const endX = (Math.random() - 0.5) * 200;
+                    heart.style.setProperty('--end-x', `${endX}px`);
+                    
+                    // Random tốc độ bay
+                    const duration = Math.random() * 15 + 10;
+                    heart.style.animationDuration = `${duration}s`;
+                    
+                    // Random độ trễ
+                    const delay = Math.random() * 5;
+                    heart.style.animationDelay = `${delay}s`;
+                    
+                    container.appendChild(heart);
+                    
+                    // Xóa heart sau khi bay xong
+                    setTimeout(() => {
+                        heart.remove();
+                    }, duration * 1000);
+                }, i * 1000);
+            }
+        }
+
         // Hiệu ứng xuất hiện khi scroll đến milestone
         function observeMilestone(element) {
             const observer = new IntersectionObserver((entries) => {
@@ -1236,13 +1327,19 @@
             
             observer.observe(element);
         }
-        audioPlayer.addEventListener('ended', function() {
-            audioPlayer.currentTime = 0;
-            audioPlayer.play();
-        });
         // Cập nhật bộ đếm mỗi giây
         updateCounter();
         setInterval(updateCounter, 1000);
+        
+        // Khởi tạo hiệu ứng
+        createSnowflakes();
+        createFloatingHearts();
+        setInterval(createFloatingHearts, 5000);
+        
+        // Thêm hiệu ứng khi click vào header
+        document.querySelector('header').addEventListener('click', () => {
+            createFloatingHearts();
+        });
     </script>
 </body>
 </html>

@@ -1327,56 +1327,7 @@
             
             observer.observe(element);
         }
-        const audioPlayer = document.getElementById('love-song');
-        const playBtn = document.getElementById('play-btn');
-        const progressBar = document.getElementById('progress-bar');
-        const timeDisplay = document.getElementById('time-display');
-
-        audioPlayer.addEventListener('canplaythrough', function() {
-            audioPlayer.play();
-            playBtn.textContent = '❚❚';
-        });
-
-        // Xử lý nút play/pause
-        playBtn.addEventListener('click', function() {
-            if (audioPlayer.paused) {
-                audioPlayer.play();
-                playBtn.textContent = '❚❚';
-            } else {
-                audioPlayer.pause();
-                playBtn.textContent = '▶';
-            }
-        });
-
-        // Cập nhật thanh tiến trình
-        audioPlayer.addEventListener('timeupdate', function() {
-            const currentTime = audioPlayer.currentTime;
-            const duration = audioPlayer.duration;
-            const progressPercent = (currentTime / duration) * 100;
-            progressBar.style.width = `${progressPercent}%`;
-            
-            // Cập nhật thời gian hiển thị
-            const currentMinutes = Math.floor(currentTime / 60);
-            const currentSeconds = Math.floor(currentTime % 60).toString().padStart(2, '0');
-            const durationMinutes = Math.floor(duration / 60);
-            const durationSeconds = Math.floor(duration % 60).toString().padStart(2, '0');
-            
-            timeDisplay.textContent = `${currentMinutes}:${currentSeconds} / ${durationMinutes}:${durationSeconds}`;
-        });
-
-        // Nhấn vào thanh tiến trình để tua
-        document.querySelector('.music-progress').addEventListener('click', function(e) {
-            const progressWidth = this.clientWidth;
-            const clickedPosition = e.offsetX;
-            const duration = audioPlayer.duration;
-            audioPlayer.currentTime = (clickedPosition / progressWidth) * duration;
-        });
-
-        // Khi bài hát kết thúc, phát lại từ đầu
-        audioPlayer.addEventListener('ended', function() {
-            audioPlayer.currentTime = 0;
-            audioPlayer.play();
-        });
+        
         // Cập nhật bộ đếm mỗi giây
         updateCounter();
         setInterval(updateCounter, 1000);

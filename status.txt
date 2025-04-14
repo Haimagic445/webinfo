@@ -1,2 +1,2 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-Update 2.2: Fix Rule Forward
+Update 2.23:Fix View Payment, Uid Facebook, Xoá Lịch Sử Tìm Kiếm, ...

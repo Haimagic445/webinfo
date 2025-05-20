@@ -1,2 +1,2 @@
 Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-Update 2.36: fix block login
+Update 2.27: fix check info

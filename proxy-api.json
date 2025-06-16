@@ -1,0 +1,14 @@
+[
+  "http://proxy.shoplike.vn":{
+    "new":{
+      "url":"http://proxy.shoplike.vn/Api/getNewProxy?access_token=api_key1",
+      "method":"get",
+      "success":"data,proxy",
+    },
+    "current":{
+      "url":"http://proxy.shoplike.vn/Api/getCurrentProxy?access_token=api_key1",
+      "method":"get",
+      "success":"data,proxy",
+    }
+  }
+]

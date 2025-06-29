@@ -1,2 +1,2 @@
-Your Can Buy Software in @hnsoft_bot and revice any notify from new software
-Update 2.27: fix check info
+Update 2.3 : Fix 404 Login Timeout
+Update 2.3 : Sửa Lỗi 404, Delay lâu

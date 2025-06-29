@@ -1,2 +1,3 @@
 Update 2.3 : Fix 404 Login Timeout
 Update 2.3 : Sửa Lỗi 404, Delay lâu
+Proxy : Set Driver + Request -> Driver 

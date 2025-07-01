@@ -1,4 +1,2 @@
-Update 2.3 : Fix 404 Login Timeout
-Update 2.3 : Sửa Lỗi 404, Delay lâu
-Update 2.31 : Fix HTTPConnects, Pool Is Closed
-Update 2.31 : Sửa HTTPConnects, Pool Is Closed
+Update 2.32 : Add Save Cookies
+Update 2.32 : Thêm Lưu Cookies(Sử Dụng Extension CookiesBro)

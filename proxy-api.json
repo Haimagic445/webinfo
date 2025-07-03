@@ -10,5 +10,17 @@
       "method": "GET",
       "success": "data,proxy"
     }
+  },
+  "https://teavpn.com":{
+    "new": {
+      "url": "https://proxyxoay.shop/api/get.php?key=api_key1&&nhamang=Random&&tinhthanh=0",
+      "method": "GET",
+      "success": "proxyhttp"
+    },
+    "current": {
+      "url": "https://teavpn.com/proxyxoay/apigetkeyxoay.php?key=api_key1",
+      "method": "GET",
+      "success": "data,proxy"
+    }
   }
 }

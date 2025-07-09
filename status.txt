@@ -1,2 +1,1 @@
-Update 2.32 : Add Save Cookies
-Update 2.32 : Thêm Lưu Cookies(Sử Dụng Extension CookiesBro)
+Update 2.36 : Mark as Junk/Read, Fix Api Proxy

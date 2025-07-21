@@ -1,1 +1,1 @@
-Update 2.36 : Mark as Junk/Read, Fix Api Proxy
+Update 2.383 : can bypass 2fa some domain(.fr,.la,...) diff .com with proxy api country <country1>

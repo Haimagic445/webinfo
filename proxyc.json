@@ -1,4 +1,8 @@
 {
   "All": ["us","vn","gb"],
+  "na.lunap":["us","ca"],
+  "as.lunap":["hk","th","tw","jp","ph","my","id","vn","sg"],
+  "eu.lunap":["gb","de"],
+  "oc":["au"],
   "dataimpulse": ["ar","au","at","be","br","cl","cz","dk","fr","de","gr","il","in","id","ie","it","hu","jp","kr","lv","my","nz","pe","ph","pt","sa","sg","sk","es","th","tr","vn","gb"]
 }

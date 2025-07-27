@@ -4,7 +4,7 @@
   "as.lunap":["hk","th","tw","jp","ph","my","id","vn","sg"],
   "eu.lunap":["gb","de"],
   "res-as.lightningproxies":["af", "am", "az", "bh", "bd", "bt", "bn", "kh", "cn", "ge", "in", "id", "ir", "iq", "il", "jp", "jo", "kz", "kw", "kg", "la", "lb", "my", "mv", "mn", "mm", "np", "kp", "om", "pk", "ph", "qa", "sa", "sg", "kr", "lk", "sy", "tw", "tj", "th", "tl", "tr", "tm", "ae", "uz", "vn", "ye"],
-  "res-eu.lightningproxies":["at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se"],
+  "res-us.lightningproxies":["at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de", "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt", "ro", "sk", "si", "es", "se"],
   "res-na.lightningproxies":["ca", "mx", "us"],
   "oc":["au"],
   "dataimpulse": ["ar","au","at","be","br","cl","cz","dk","fr","de","gr","il","in","id","ie","it","hu","jp","kr","lv","my","nz","pe","ph","pt","sa","sg","sk","es","th","tr","vn","gb"]

@@ -1,2 +1,1 @@
-Update 2.431 : Thêm Không Tạo Thêm Folder Kết Quả Khi Nhấn Stop,Start,..
-Update 2.431 : Keep One Folder Result
+MN nhấn stop trước khi dán data mới nha, rồi nhấn start lại, bật Keep One Result là nó không tách result folder mới

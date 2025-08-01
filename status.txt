@@ -1,1 +1,1 @@
-MN nhấn stop trước khi dán data mới nha, rồi nhấn start lại, bật Keep One Result là nó không tách result folder mới
+Update 2.433 : Fix Save Cookies, Retry No Show Error

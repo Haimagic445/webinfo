@@ -1,1 +1,2 @@
-Update 2.433 : Fix Save Cookies, Retry No Show Error
+Update 2.434 : Fix Crash When Stop/Start, Spam Login
+Update 2.434 : Sửa Lỗi Văng Khi Nhấn Stop/Start, Lỗi Khi Nhập Thêm Mail Mới Khi Đang Chạy

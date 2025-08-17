@@ -1,1 +1,2 @@
-Update 2.45 : Fix Alias Form, Some "Something Went Wrong,..."
+Update 2.45 : Fix Alias Form, Some "Something Went Wrong,...",Selenium,..
+Update 2.45 : Thêm Bypass Alias,Sửa lỗi chỉ mở edge ở 2.441>,Fix Something went wrong

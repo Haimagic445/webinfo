@@ -1,2 +1,3 @@
 Update 2.46 : Fix cant check inbox in some mail,faster edge check,..
 Update 2.46 : Sửa 1 số mail treo không check được thư khi mở edge
+Update 2.461 : Fix popup insert key by window securty(passkey)

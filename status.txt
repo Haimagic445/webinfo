@@ -1,2 +1,2 @@
-Update 2.45 : Fix Alias Form, Some "Something Went Wrong,...",Selenium,..
-Update 2.45 : Thêm Bypass Alias,Sửa lỗi chỉ mở edge ở 2.441>,Fix Something went wrong
+Update 2.46 : Fix cant check inbox in some mail,faster edge check,..
+Update 2.46 : Sửa 1 số mail treo không check được thư khi mở edge

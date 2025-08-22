@@ -1,4 +1,2 @@
 Update 2.46 : Fix cant check inbox in some mail,faster edge check,..
 Update 2.46 : Sửa 1 số mail treo không check được thư khi mở edge
-Error in 2.461 (Cant Open Outlook), Use 2.46 It Good, Wait I Fixed
-MN sài 2.461 thì down xuống 2.46 nha, fix passkey mà nó lỗi luôn outlook, 2.46 ổn

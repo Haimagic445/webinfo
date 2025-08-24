@@ -1,2 +1,2 @@
-Update 2.46 : Fix cant check inbox in some mail,faster edge check,..
-Update 2.46 : Sửa 1 số mail treo không check được thư khi mở edge
+Update 2.48 : Thêm Cài Đặt Treo Rule(Tự Động Check + Thêm Nếu Bị Xoá)
+Update 2.48 : Add opts auto add rule if it was delete

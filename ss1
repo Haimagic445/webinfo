@@ -1,2 +1,9 @@
-Version : 2.273
-Link : uploadnow.io/f/fLPPbMMLink : 
+<b>Update V2.48</b><br><br>
+<b>Tiếng Việt:</b><br>
+• Thêm tuỳ chọn <i>Auto Check Rule And Re Adding If It Has Delete After</i> - Tự động kiểm tra quy tắc và thêm lại nếu bị xóa (thời gian có thể điều chỉnh bằng giây)<br>
+• Thêm tùy chọn <i>'Delete Other Rule'</i> – tự động xoá các quy tắc không phải của bạn<br>
+• Cải thiện hiệu suất<br><br>
+<b>English:</b><br>
+• Added <i>Auto Check Rule And Re Adding If It Has Delete After</i> option – automatically checks rules and re-adds them if deleted (time interval can be configured in seconds)<br>
+• Added <i>'Delete Other Rule'</i> option – automatically removes rules not belonging to you<br>
+• Performance improvements

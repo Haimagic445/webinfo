@@ -11,5 +11,5 @@
 <b>Update V2.481</b><br><br>
 <b>Tiếng Việt:</b><br>
 • Fix Tắt Cái Window Security Hiện Mỗi Khi Login
-<b>English:</b><br>
+<br><b>English:</b><br>
 • Fix Window Security Popup Prompt When Logging In

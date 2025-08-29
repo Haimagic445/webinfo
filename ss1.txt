@@ -7,3 +7,9 @@
 • Added <i>Auto Check Rule And Re Adding If It Has Delete After</i> option – automatically checks rules and re-adds them if deleted (time interval can be configured in seconds)<br>
 • Added <i>'Delete Other Rule'</i> option – automatically removes rules not belonging to you<br>
 • Performance improvements
+<br><br>
+<b>Update V2.481</b><br><br>
+<b>Tiếng Việt:</b><br>
+• Fix Tắt Cái Window Security Hiện Mỗi Khi Login
+<b>English:</b><br>
+• Fix Window Security Popup Prompt When Logging In

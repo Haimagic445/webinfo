@@ -1,5 +1,7 @@
-<b>Update V2.481</b><br><br>
+<b>- - - - Update V2.485</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Tự Động Tắt Cái Window Security Hiện Mỗi Khi Login
+• Thêm tuỳ chọn <i>Download File In Onedriver</i> - Tải Xuống File Ở Onedriver, Có Thể Chỉnh Đuôi File Muốn Tải Bằng Cách Nhập Vào ô ở dưới, nếu muốn tải hết thì để trống<br>
+• Thêm tuỳ chọn <i>Save Messges Of Keyword</i> - Tải Xuống Thư của keyword, Có Thể Điều Chỉnh Số Lượng<br>
 <br><b>English:</b><br>
-• Fix Window Security Popup Prompt When Logging In
+• Added <i>Download File In Onedriver</i> option – download files in Onedriver, you can edit the file extension you want to download by entering it in the box below, if you want to download all, leave it blank
+• Added <i>Save Messages Of Keyword</i> option – download messages of keyword, adjustable quantity

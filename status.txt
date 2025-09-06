@@ -1,2 +1,2 @@
-Un tick "no open brower"
-tắt "no open brower"
+V2.486 : Mn bấm tải lại nếu lỗi hiện thành v2.485 nha, mình sửa dc rồi, đã ổn khi bật "no open browser"
+V2.486: Fixed directi api + no open browser options

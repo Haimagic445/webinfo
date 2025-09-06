@@ -1,2 +1,2 @@
-Update 2.485 : Add Onedriver Download, Download Messages by keyword
-Update 2.485 : Thêm Tải File Ở Onedriver, Lưu Thư
+Un tick "no open brower"
+tắt "no open brower"

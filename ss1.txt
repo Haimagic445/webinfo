@@ -1,6 +1,7 @@
 <b>- - - - Update V2.486</b><br><br>
 <b>Tiếng Việt:</b><br>
 • Sửa <b>'Is This 2Fa'</b> Lỗi, Và No Open Browser Không Hoạt Động
+• Tối Ưu 
 <br><b>English:</b><br>
 • Fix <b>'Is This 2Fa'</b> Error, Fixed No Open Browser
 <br><br>

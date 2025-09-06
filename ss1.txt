@@ -1,6 +1,6 @@
 <b>- - - - Update V2.486</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Fix <b>'Is This 2Fa'</b> Lỗi Ở Bản <= 2.485<br>
+• Sửa <b>'Is This 2Fa'</b> Lỗi, Và No Open Browser Không Hoạt Động
 <br><b>English:</b><br>
-• Fix <b>'Is This 2Fa'</b> Error In Version <= 2.485
+• Fix <b>'Is This 2Fa'</b> Error, Fixed No Open Browser
 <br><br>

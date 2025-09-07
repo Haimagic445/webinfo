@@ -1,14 +1,1 @@
-{
-            'hotmail.com':{
-                'server':'outlook.office365.com',
-                'port':993,
-            },
-            'dtccmail.com':{
-                'server':'imap.dtccom.com',
-                'port':993
-            },
-            'rambler.ru':{
-                'server':'imap.rambler.ru',
-                'port':993
-            }
-        }
+{}

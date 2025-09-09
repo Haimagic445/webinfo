@@ -1,9 +1,7 @@
-<b>- - - - Update V2.486</b><br><br>
+<b>- - - - Update V2.487</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Sửa <b>'Is This 2Fa'</b> Lỗi, Và No Open Browser Không Hoạt Động
-• Tối Ưu 
+• Optimize Edge, Not as heavy as previous version<br>
+• Fix /Abuse ?<br>
 <br><b>English:</b><br>
-• Fix <b>'Is This 2Fa'</b> Error, Fixed No Open Browser
-<br><br>
-<a href="https://uploadnow.io/f/PQXBMlX"> Tải xuống </a>
-<a href="https://uploadnow.io/f/PQXBMlX"> Download </a>
+<a href="https://gofile.io/d/U0v2Po"> Tải xuống </a>
+<a href="https://uploadnow.io/f/x1bKT8R"> Download </a>

@@ -3,7 +3,7 @@
 • Tối Ưu Edge, Giảm Mạnh Độ Nặng
 • Fix /Abuse ?
 <br><b>English:</b><br>
-• Optimize Edge, Not as heavy as previous version<br>
+• Optimize Edge, use low cpu,ram<br>
 • Fix /Abuse ?<br>
 <a href="https://uploadnow.io/f/x1bKT8R"> Tải xuống </a>
 <a href="https://uploadnow.io/f/x1bKT8R"> Download </a>

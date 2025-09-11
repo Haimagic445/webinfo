@@ -1,6 +1,6 @@
 <b>- - - - Update V2.488</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Fix "Search Inbox Error"
+• Sửa Lỗi "Search Inbox Error"
 <br><b>English:</b><br>
 • Fix "Search Inbox Error"
 <br><br>

@@ -1,9 +1,8 @@
-<b>- - - - Update V2.487</b><br><br>
+<b>- - - - Update V2.488</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Tối Ưu Edge, Giảm Mạnh Độ Nặng
-• Fix /Abuse ?
+• Fix "Search Inbox Error"
 <br><b>English:</b><br>
-• Optimize Edge, use low cpu,ram<br>
-• Fix /Abuse ?<br>
-<a href="https://uploadnow.io/f/x1bKT8R"> Tải xuống </a>
-<a href="https://uploadnow.io/f/x1bKT8R"> Download </a>
+• Fix "Search Inbox Error"
+<br><br>
+<a href="https://uploadnow.io/f/g9MqV04"> Tải xuống </a>
+<a href="https://uploadnow.io/f/g9MqV04"> Download </a>

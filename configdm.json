@@ -1,1 +1,6 @@
-{}
+{
+  "yahoo.co.jp":{
+    "server":"mail.yahoo.co.jp",
+    "port":993
+  }
+}

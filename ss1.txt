@@ -1,9 +1,9 @@
 <b>- - - - Update V2.49</b><br><br>
 <b>Tiếng Việt:</b><br>
-• New Api, Login Ẩn Mượt Hơn, Bật No open browser ổn
-• Thêm File Lưu mail:pass | country riêng
-• Tuy nhiên nếu cần sài onedriver thì phải tắt no open browser và bật cancel requests
+• New Api, Login Ẩn Mượt Hơn, Bật No open browser ổn<br>
+• Thêm File Lưu mail:pass | country riêng<br>
+• Tuy nhiên nếu cần sài onedriver thì phải tắt no open browser và bật cancel requests<br>
 <br><b>English:</b><br>
-• New Api Login Requests, Work good with enable No Open Browser Good
-• Added File mail:pass | country
+• New Api Login Requests, Work good with enable No Open Browser Good<br>
+• Added File mail:pass | country<br>
 • However, if you need to use onedriver, you must turn off no open browser and turn on cancel requests.

@@ -1,8 +1,9 @@
-<b>- - - - Update V2.488</b><br><br>
+<b>- - - - Update V2.49</b><br><br>
 <b>Tiếng Việt:</b><br>
-• Sửa Lỗi "Search Inbox Error"
+• New Api, Login Ẩn Mượt Hơn, Bật No open browser ổn
+• Thêm File Lưu mail:pass | country riêng
+• Tuy nhiên nếu cần sài onedriver thì phải tắt no open browser và bật cancel requests
 <br><b>English:</b><br>
-• Fix "Search Inbox Error"
-<br><br>
-<a href="https://uploadnow.io/f/g9MqV04"> Tải xuống </a>
-<a href="https://uploadnow.io/f/g9MqV04"> Download </a>
+• New Api Login Requests, Work good with enable No Open Browser Good
+• Added File mail:pass | country
+• However, if you need to use onedriver, you must turn off no open browser and turn on cancel requests.

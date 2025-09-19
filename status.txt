@@ -1,1 +1,3 @@
 New Bot @HNTechh_bot
+disable 'no open browser', that opt maybe skip some mail
+tắt 'no open browser', nếu mn thấy có hiện tượng xót nha

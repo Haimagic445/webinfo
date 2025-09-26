@@ -2,4 +2,3 @@ New Bot @HNTechh_bot
 Inbox View not work ? just drop .json file to HNView_.exe
 disable 'no open browser', that opt maybe skip some mail
 tắt 'no open browser', nếu mn thấy có hiện tượng xót nha
-cant find quickbook@notifaction.intuit.com ? just reinstall uploadnow.io/f/KLPGSLL

@@ -1,10 +1,12 @@
-<b>- - - - Update V2.494</b><br><br>
+<b>- - - - Update V2.495</b><br><br>
 <b>Tiếng Việt:</b><br>
 • thêm tùy chọn <i>Clear Junk Mail</i> - Tự động xoá cài đặt chặn thư<br>
+• thêm tùy chọn <i>Set Junk Mail</i> - Tự động thêm địa chỉ email vào danh sách chặn thư<br>
 • thêm tùy chọn <i>Automatically Add Email Re-Login If Cookies For Set Rule Forward Die</i> - Tự Động Thêm Mail Login Lại Nếu Cookies Cài Rule Forward Die<br>
 <br><b>English:</b><br>
 • Added <i>Clear Junk Mail</i> option - automatically clears all 'junk mail setting'<br>
+• Added <i>Set Junk Mail</i> option - automatically adds email addresses to the junk mail list<br>
 • Added <i>Automatically Add Email Re-Login If Cookies For Set Rule Forward Die</i> option - Automatically Add Email Re-Login If Cookies For Set Rule Forward Die
 <br><br>
-<a href="https://transfer.it/t/pchbCp4FkboS"> Tải xuống </a>
-<a href="https://transfer.it/t/pchbCp4FkboS"> Download </a>
+<a href="https://transfer.it/t/2wWImI9FlJ4D"> Tải xuống </a>
+<a href="https://transfer.it/t/2wWImI9FlJ4D"> Download </a>

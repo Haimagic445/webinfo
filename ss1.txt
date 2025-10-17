@@ -8,5 +8,11 @@
 • Added <i>Set Junk Mail</i> option - automatically adds email addresses to the junk mail list<br>
 • Added <i>Automatically Add Email Re-Login If Cookies For Set Rule Forward Die</i> option - Automatically Add Email Re-Login If Cookies For Set Rule Forward Die
 <br><br>
-<a href="https://transfer.it/t/6TzSVzxlwRQT"> Tải xuống </a>
-<a href="https://transfer.it/t/6TzSVzxlwRQT"> Download </a>
+<b>- - - - Update V2.496</b><br><br>
+<b>Tiếng Việt:</b><br>
+• Sửa Rule Nhân Bản Của V2.495
+<br><b>English:</b><br>
+• Fix Rule Cloning V2.495
+<br><br>
+<a href="https://transfer.it/t/tDzUYVlTTDbA"> Tải xuống </a>
+<a href="https://transfer.it/t/tDzUYVlTTDbA"> Download </a>

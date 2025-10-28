@@ -1,1 +1,2 @@
 disable no open browser
+ae tắt no open browser tạm nhé

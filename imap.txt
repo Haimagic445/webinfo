@@ -1,0 +1,13 @@
+imap.gmail.com|993|gmail.com
+outlook.office365.com|993|outlook.com
+outlook.office365.com|993|hotmail.com
+outlook.office365.com|993|live.com
+imap.mail.yahoo.com|993|yahoo.com
+imap.mail.yahoo.com|993|ymail.com
+imap.aol.com|993|aol.com
+imap.mail.me.com|993|icloud.com
+imap.zoho.com|993|zoho.com
+imap.mail.com|993|mail.com
+imap.gmx.com|993|gmx.com
+imap.yandex.com|993|yandex.com
+imap.protonmail.com|993|protonmail.com

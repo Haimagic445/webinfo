@@ -1,4 +1,41 @@
 <strong>HNTech</strong></p>
 <br><br>
-<a href="https://transfer.it/t/EBYOv25XxDZS"> Tải xuống </a>
-<a href="https://transfer.it/t/EBYOv25XxDZS"> Download </a>
+<a href="https://transfer.it/t/RvycA2gTlRBR"> Tải xuống </a>
+<a href="https://transfer.it/t/RvycA2gTlRBR"> Download </a>
+
+<h2 style='color:#8eacbb;'>📋 CẬP NHẬT MỚI / WHAT'S NEW</h2>
+<hr>
+
+<b style='color:#3fb950;'>📬 1. MailBox Viewer — Viết lại hoàn toàn / Complete Rewrite</b><br>
+• <b>VN:</b> Giao diện mới dark theme, hỗ trợ nhiều tài khoản cùng lúc trong 1 cửa sổ.<br>
+  Kéo thả file <b>.json</b> để thêm mail. Tìm kiếm, xem email, quản lý rules tất cả trong 1 dialog.<br>
+• <b>EN:</b> New dark-themed UI with multi-account support in a single window.<br>
+  Drag & drop <b>.json</b> files to add accounts. Search, view emails, manage rules — all in one dialog.<br><br>
+
+<b style='color:#3fb950;'>🌐 2. Open Browser — Dialog mới / New Launcher Dialog</b><br>
+• <b>VN:</b> Thay thế hệ thống thread cũ bằng dialog hiện đại. Hiển thị trạng thái từng mail,<br>
+  điều chỉnh số thread chạy đồng thời, thanh tiến trình rõ ràng.<br>
+• <b>EN:</b> Replaced old thread system with a modern launcher dialog. Per-account status display,<br>
+  adjustable concurrent threads, clear progress tracking.<br><br>
+
+<b style='color:#3fb950;'>🛡️ 3. Chặn popup Edge / Block Edge Sign-in Popup</b><br>
+• <b>VN:</b> Tự động chặn popup "Sign into Microsoft Edge" khi mở trình duyệt.<br>
+  Sử dụng chế độ InPrivate + tự động click "No, thanks".<br>
+• <b>EN:</b> Auto-blocks "Sign into Microsoft Edge" popup when launching browsers.<br>
+  Uses InPrivate mode + auto-clicks "No, thanks".<br><br>
+
+<b style='color:#3fb950;'>⚡ 4. Rules — Apply to All / Áp dụng cho tất cả</b><br>
+• <b>VN:</b> Thêm nút "Apply to All" trong MailBox Viewer để áp dụng rule cho tất cả tài khoản đã mở.<br>
+• <b>EN:</b> Added "Apply to All" button in MailBox Viewer to apply rules to all loaded accounts.<br><br>
+
+<b style='color:#3fb950;'>⚡ 5. Save Json Data mail</b><br>
+• <b>VN:</b> Lưu Json Mail Hỗ Trợ có thể mở lại bằng HNMailBox /jsonmail, thay thế cho cookies<br>
+• <b>EN:</b> Save Json Mail Support can be reopened by HNMailBox /jsonmail, replacing cookies<br><br>
+
+
+<b style='color:#3fb950;'>⚡ 6. Save Error</b><br>
+• <b>VN:</b> Lưu Lỗi theo từng file riêng /error<br>
+• <b>EN:</b> Save Error to each file /error<br><br>
+
+<hr>
+<i style='color:#8b949e;'>HNSoftware — t.me/hntechh</i>

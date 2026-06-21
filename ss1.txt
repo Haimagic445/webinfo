@@ -1,4 +1,6 @@
 <strong>HNTech</strong></p>
-<br>Update V2.5.5<br>
-<a href="https://transfer.it/t/Wfnee7hzGTrA"> Tải xuống </a>
-<a href="https://transfer.it/t/Wfnee7hzGTrA"> Download </a>
+<br>Update V2.5.6<br>
+- Fix HNView
+- Fix Rule Forward
+<a href="https://transfer.it/t/5auPnSoVTRoC"> Tải xuống </a>
+<a href="https://transfer.it/t/5auPnSoVTRoC"> Download </a>

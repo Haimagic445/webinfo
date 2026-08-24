@@ -1,5 +1,3 @@
-Dưới đây là danh sách host, port (chuẩn cho IMAP SSL) và domain đã được sửa lỗi chính tả từ danh sách của bạn dưới dạng văn bản thuần:
-
 imap.yahoo.com|993|yahoo.com
 imap.myself.com|993|myself.com
 imap.sfdreamscape.com|993|sfdreamscape.com
